@@ -1,0 +1,13 @@
+[package]
+name = "mb_tcp_test"
+version = "0.1.0"
+authors = ["Michał Hanusek <mhanusek@o2.pl>"]
+edition = "2018"
+
+[dependencies]
+bytes = "0.4.12"
+tokio = "0.1.22"
+#futures = "0.1.26"
+byteorder = "*"
+hex-slice = "*"
+chrono = "*"
