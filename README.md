@@ -2,7 +2,7 @@
 ## tokio-tcp-server example
 
 An example with tokio library 0.1.22.
-If the tcp client sends 12 bytes of data cyclically, the tcp server loses data.
+The tcp client sends 12 bytes of data cyclically, the tcp server loses data.
 
 ### Listing
 ```
